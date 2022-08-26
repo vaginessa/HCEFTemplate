@@ -11,8 +11,8 @@ class MainActivity : AppCompatActivity() {
 
     // TODO change to your own package name
     private val myComponentName = ComponentName(
-        "tech.oliet.hceftemplate",
-        "tech.oliet.hceftemplate.HCEFService"
+        "com.example.hceftemplate",
+        "com.example.hceftemplate.HCEFService"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
