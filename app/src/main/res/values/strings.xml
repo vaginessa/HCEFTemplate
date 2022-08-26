@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HCEFTemplate</string>
+    <string name="service_desc">Service Description</string>
 </resources>
